@@ -1,2 +1,2 @@
 def 
-  first_number = 3
+  first_number(number)
