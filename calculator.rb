@@ -1,2 +1,1 @@
-def 
-  first_number(number)
+var first_number = 0
